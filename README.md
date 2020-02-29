@@ -1,5 +1,5 @@
 ![Build Status](https://github.com/psampaz/service/workflows/build/badge.svg)
-[![GoDoc](https://godoc.org/github.com/psampaz/service?status.svg)](https://godoc.org/github.com/psampaz/service?status.svg)
+[![GoDoc](https://godoc.org/github.com/psampaz/service?status.svg)](https://godoc.org/github.com/psampaz/service)
 [![Go Report Card](https://goreportcard.com/badge/github.com/psampaz/service)](https://goreportcard.com/report/github.com/psampaz/service)
 
 A fully testable and commented Go service prototype built for educational purposes.
