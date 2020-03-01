@@ -14,13 +14,13 @@ import (
 
 // Request is the request that the service will serve.
 type Request struct {
-	// Sample field for the sake of the example. Could be on or more fields of any type.
+	// Sample field for the sake of the example. Could be one or more fields of any type.
 	Data string
 }
 
 // Response is the actual reponse of the service in absence of error (happy path)
 type Response struct {
-	// Sample field for the sake of the example. Could be on or more fields of any type.
+	// Sample field for the sake of the example. Could be one or more fields of any type.
 	Data string
 }
 
